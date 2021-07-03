@@ -1,0 +1,426 @@
+Age,Gender,myocardial,Exertional angina,FC,Heart Disease,Heredity,Hypertension,Symptomatic hypertension,Duration,Arrhythmia,Systolic_emergency,Diastolic_emergency,Systolic_intensive_care,Diastolic_intensive_care,Potassium,Sodium,AlAT,AsAT,WBC,ESR,Time
+63,Male,0,Two years ago,II FC,Exertional angina,?,No,No,No hypertension,No,140,80,130,80,4.5,134,0.61,0.33,6.5,15,5
+70,Male,1,During the last year,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,120,80,120,80,?,?,0.3,0.11,11.1,5,1
+50,Male,0,Never,No angina,No angina,?,Stage 2,No,?,No,?,?,?,?,4.8,140,0.75,0.41,7.7,5,3
+63,Male,1,?,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,70,40,5,146,0.45,0.22,9.8,25,?
+74,Female,1,Three years ago,II FC,Exertional angina,?,Stage 2,No,Three years,No,150,80,120,80,?,?,1.05,0.22,6.1,?,8
+80,Male,0,More than five years ago,II FC,Unstable angina,?,No,No,No hypertension,No,?,?,120,80,?,?,?,?,?,?,?
+74,Female,0,Two years ago,III FC,Exertional angina,?,Stage 2,No,?,No,160,100,140,70,?,?,0.3,0.15,6.4,25,6
+65,Male,0,More than five years ago,II FC,Exertional angina,?,No,No,No hypertension,No,120,70,?,?,4,133,0.3,0.3,6.8,7,7
+75,Female,0,During the last year,III FC,Exertional angina,?,Stage 2,No,More than 10 years,No,110,60,140,80,4.8,143,0.45,0.15,13.5,15,2
+51,Male,3,Four to five years ago,II FC,Unstable angina,?,Stage 2,No,?,No,140,80,130,100,5,137,1.36,0.37,7.1,20,2
+68,Female,1,Never,No angina,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,?,?,4.6,146,?,?,6,41,7
+63,Female,0,More than five years ago,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,?,?,4.8,139,0.61,0.15,3.7,23,2
+70,Female,1,Four to five years ago,II FC,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,140,80,?,?,0.45,0.15,6.2,17,1
+54,Female,0,Never,No angina,No angina,?,Stage 2,No,Six to ten years,No,?,?,130,90,4.4,133,1.28,0.41,8,17,9
+43,Male,0,Never,No angina,Unstable angina,?,Stage 2,No,?,No,?,?,?,?,5.3,138,0.3,0.33,11.2,7,8
+57,Male,0,?,?,?,?,?,?,?,?,?,?,110,70,4.6,140,0.3,0.15,16.7,5,3
+69,Female,2,Four to five years ago,II FC,Unstable angina,?,Stage 2,No,Six to ten years,No,?,?,130,90,4.4,139,?,?,12.1,?,3
+63,Female,3,One year ago,II FC,Exertional angina,?,Stage 2,No,?,No,?,?,110,70,?,?,0.15,0.07,?,?,2
+53,Female,3,Never,No angina,Unstable angina,?,No,No,No hypertension,No,?,?,150,90,4,153,?,?,3.2,13,2
+70,Male,0,More than five years ago,II FC,Unstable angina,?,No,No,No hypertension,No,110,70,130,80,4.5,136,1.36,0.75,8.3,19,7
+74,Female,0,Two years ago,IV FC,Unstable angina,No,Stage 2,No,One year,No,160,80,150,90,?,?,?,?,6.6,50,9
+59,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,120,80,115,80,4.2,141,0.61,0.37,8,22,9
+57,Male,1,Two years ago,II FC,Exertional angina,?,Stage 2,No,?,No,140,90,130,90,?,?,?,?,8.2,3,3
+42,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,120,80,?,?,0.3,0.18,11,10,?
+54,Female,0,Never,No angina,Unstable angina,?,Stage 2,No,Two years,No,160,90,140,90,?,?,0.52,0.18,5.1,7,6
+62,Male,0,More than five years ago,II FC,Exertional angina,?,Stage 2,No,?,No,100,60,180,120,3.6,146,0.15,0.11,6.9,5,1
+59,Male,2,Never,No angina,Unstable angina,?,Stage 2,No,Five years,No,?,?,140,60,4.6,125,0.15,0.37,7.1,10,3
+53,Male,0,During the last year,I FC,Unstable angina,?,No,No,No hypertension,No,?,?,?,?,4,146,0.9,0.82,12.1,19,7
+60,Male,0,?,II FC,Unstable angina,?,Stage 2,No,One year,Yes,?,?,?,?,4.3,144,0.15,0.11,4.2,5,8
+65,Male,0,During the last year,No angina,Unstable angina,?,Stage 2,No,Six to ten years,Yes,160,90,180,100,?,?,?,?,5.5,6,9
+62,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,130,80,2.9,130,0.15,0.11,4.9,6,?
+65,Male,0,Never,No angina,Unstable angina,?,No,No,No hypertension,No,?,?,120,80,?,?,0.75,0.3,7.1,8,1
+57,Male,0,One year ago,?,Unstable angina,?,No,No,No hypertension,No,120,80,?,?,3.5,127,0.11,0.23,5.6,7,5
+53,Male,0,Four to five years ago,II FC,Unstable angina,?,No,Yes,Six to ten years,No,?,?,130,90,?,?,?,?,?,?,4
+55,Male,0,Never,No angina,No angina,?,Stage 2,No,Six to ten years,No,?,?,170,100,5.1,143,0.3,0.18,6.7,5,1
+61,Female,0,Three years ago,II FC,Unstable angina,?,Stage 3,No,More than 10 years,No,?,?,170,100,4,143,0.38,0.22,9.6,57,8
+57,Male,3,More than five years ago,II FC,Exertional angina,?,Stage 2,No,?,No,?,?,110,70,5.2,130,0.23,0.11,8.7,5,1
+59,Male,0,Never,No angina,Unstable angina,?,Stage 2,No,Six to ten years,No,?,?,?,?,4.2,136,0.3,0.15,6.9,17,7
+57,Male,0,Never,No angina,Unstable angina,?,Stage 2,No,Two years,No,?,?,?,?,4.7,136,0.75,0.15,10,6,1
+60,Male,2,During the last year,II FC,Unstable angina,?,Stage 2,No,Three years,No,?,?,160,80,?,?,0.46,0.14,5.8,3,6
+37,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,120,80,4.6,?,0.23,0.11,6.2,11,8
+76,Female,0,Never,No angina,Unstable angina,?,Stage 2,No,?,No,?,?,?,?,3.9,133,1.51,0.15,6,20,3
+65,Female,0,Never,No angina,Unstable angina,?,No,No,No hypertension,No,?,?,?,?,?,?,?,?,?,?,9
+81,Female,0,More than five years ago,II FC,Exertional angina,No,Stage 2,No,Six to ten years,No,110,70,220,110,4.1,132,1.36,0.15,16.1,19,2
+38,Male,1,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,110,70,3.8,138,0.15,0.18,12,16,7
+60,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,150,90,3.3,132,0.15,0.82,10.8,?,2
+69,Female,1,One year ago,III FC,Exertional angina,?,No,No,No hypertension,No,?,?,150,90,4.6,140,?,?,11.8,4,9
+35,Male,0,Never,No angina,Unstable angina,?,No,No,No hypertension,No,120,80,130,80,3,132,0.32,0.07,4.6,2,6
+59,Male,2,Three years ago,II FC,Unstable angina,?,Stage 2,No,Six to ten years,No,120,85,100,70,5.3,125,1.51,0.22,5.6,30,9
+67,Female,0,More than five years ago,II FC,?,?,Stage 2,No,Six to ten years,No,80,60,120,80,4.9,136,0.75,0.67,12.9,8,5
+55,Male,0,Never,No angina,No angina,?,Stage 2,No,Four years,No,140,90,160,110,4.3,122,0.07,0.45,11,9,9
+76,Female,1,During the last year,II FC,Exertional angina,?,Stage 3,No,More than 10 years,No,130,90,140,80,5.5,130,1.36,0.75,16.7,42,5
+52,Male,0,During the last year,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,130,80,3.8,130,0.9,0.46,8.6,5,4
+53,Female,0,Two years ago,II FC,Unstable angina,?,No,Yes,More than 10 years,No,?,?,?,?,4,140,0.61,0.15,5,17,8
+61,Male,1,One year ago,II FC,Unstable angina,?,No,No,No hypertension,No,100,60,100,70,?,?,0.15,0.07,4.2,14,6
+57,Male,0,More than five years ago,II FC,Exertional angina,?,Stage 2,No,?,No,120,80,140,70,4.3,136,0.23,0.11,7.2,17,7
+63,Male,1,One year ago,II FC,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,120,90,3.8,136,2.26,0.9,10,7,6
+59,Male,0,More than five years ago,II FC,Exertional angina,?,No,No,No hypertension,No,90,60,130,80,3.3,130,0.75,0.22,5.1,3,2
+60,Female,1,One year ago,II FC,Unstable angina,?,Stage 2,No,One year,No,?,?,140,100,4.2,140,?,?,4.6,7,9
+63,Male,1,More than five years ago,II FC,Unstable angina,?,No,No,No hypertension,No,?,?,120,90,4.7,142,0.3,0.48,?,?,7
+70,Male,1,More than five years ago,II FC,Unstable angina,?,No,No,No hypertension,No,160,90,110,70,?,?,0.3,0.14,6.1,25,1
+61,Female,0,Never,No angina,Unstable angina,?,No,No,No hypertension,No,?,?,95,60,4.3,136,0.3,0.3,8.4,8,1
+90,Female,0,More than five years ago,II FC,Unstable angina,?,No,No,No hypertension,No,160,65,110,80,4.3,127,1.05,0.75,10.2,4,6
+65,Male,1,Four to five years ago,II FC,Unstable angina,?,No,No,No hypertension,Yes,?,?,130,80,3.8,134,0.15,0.07,3.4,5,7
+55,Female,0,?,II FC,Exertional angina,?,Stage 2,No,One year,No,?,?,120,80,5.7,143,?,?,5.2,5,6
+43,Male,3,One year ago,II FC,Unstable angina,?,No,No,No hypertension,No,?,?,120,80,4.3,136,0.75,0.48,9.9,3,6
+55,Male,1,During the last year,II FC,Unstable angina,?,Stage 2,No,One year,No,140,80,160,100,3.5,140,0.45,0.15,6.7,10,5
+52,Male,1,Never,No angina,No angina,?,No,No,No hypertension,No,120,80,120,80,3.8,134,0.15,0.07,7.1,3,1
+73,Female,0,Four to five years ago,II FC,Unstable angina,?,Stage 2,No,Six to ten years,No,60,0,60,40,?,?,?,?,?,?,1
+56,Female,0,More than five years ago,II FC,Unstable angina,?,Stage 2,No,More than 10 years,No,80,60,100,60,4.6,146,?,?,5.6,14,?
+66,Female,0,Never,No angina,No angina,?,Stage 2,No,More than 10 years,No,170,90,140,90,4.5,132,0.45,0.22,8.4,13,9
+62,Male,2,One year ago,II FC,Exertional angina,?,Stage 2,No,Three years,No,?,?,145,90,3.5,135,0.3,0.15,4.2,8,9
+43,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,130,80,110,70,5.4,136,0.76,0.74,8.8,7,1
+52,Male,0,One year ago,II FC,Unstable angina,?,Stage 2,No,?,No,?,?,160,110,?,?,0.61,0.15,4.9,3,9
+63,Female,0,Four to five years ago,II FC,Exertional angina,?,Stage 2,No,?,No,?,?,180,100,?,?,?,?,12.2,40,9
+54,Male,0,During the last year,III FC,Unstable angina,?,Stage 2,No,Two years,No,?,?,130,80,?,?,?,?,?,?,9
+63,Male,0,One year ago,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,130,80,3.7,136,?,?,6.6,?,1
+61,Male,1,During the last year,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,120,80,3.8,130,0.23,0.37,8,8,1
+59,Female,0,One year ago,II FC,Unstable angina,?,No,No,No hypertension,No,?,?,100,60,3.3,133,0.52,0.22,7.4,6,2
+88,Female,2,More than five years ago,II FC,Unstable angina,?,?,?,?,?,?,?,120,80,4.2,146,0.45,0.49,8,?,5
+43,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,130,80,4.1,140,?,?,5.4,3,9
+60,Male,0,Two years ago,I FC,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,160,90,4.5,140,1.04,0.44,11.5,3,6
+75,Female,0,More than five years ago,I FC,Unstable angina,?,Stage 2,No,More than 10 years,No,200,100,180,110,6.4,135,0.23,0.07,7.3,12,9
+60,Male,2,More than five years ago,II FC,Unstable angina,?,No,No,No hypertension,No,?,?,90,60,3.7,140,0.61,0.15,7,45,9
+49,Male,0,Never,No angina,Unstable angina,?,Stage 2,No,Five years,No,?,?,160,90,4,140,0.15,0.18,17.9,8,5
+57,Female,0,More than five years ago,II FC,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,?,?,5,136,0.3,0.15,7,7,6
+999,Female,0,More than five years ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,140,70,3.1,130,0.07,0.3,8.6,5,2
+34,Male,0,Never,No angina,Unstable angina,?,No,No,No hypertension,No,110,70,130,80,3.2,136,0.51,0.3,7.5,22,4
+68,Male,2,Never,No angina,Unstable angina,?,No,Yes,More than 10 years,No,220,110,210,130,4,136,0.15,0.11,7.2,6,7
+72,Female,0,During the last year,II FC,Unstable angina,?,Stage 2,No,Three years,No,130,90,160,110,3.5,123,1.51,0.26,5.4,12,4
+88,Female,0,?,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,180,130,5,136,0.15,0.07,6.1,4,2
+42,Male,0,One year ago,?,No angina,?,No,No,No hypertension,No,70,40,?,?,3.6,120,0.61,0.22,7.8,10,2
+46,Male,1,More than five years ago,II FC,Exertional angina,?,Stage 2,No,?,No,?,?,130,90,?,?,1.2,0.3,7.5,5,8
+64,Female,1,During the last year,II FC,Unstable angina,?,Stage 2,No,Six to ten years,No,130,80,140,80,4.7,137,?,?,5.8,38,9
+80,Female,0,Never,No angina,No angina,No,No,No,No hypertension,No,140,80,110,70,3,140,0.45,0.22,8.1,3,9
+63,Male,1,Four to five years ago,I FC,Exertional angina,?,Stage 3,No,Six to ten years,No,?,?,160,80,3.8,136,0.45,0.18,6.9,25,6
+77,Male,1,Four to five years ago,II FC,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,110,70,4,136,0.75,0.41,11,22,5
+70,Female,0,Never,No angina,No angina,?,No,Yes,Three years,No,170,100,120,80,4.8,140,0.15,0.07,9.1,34,2
+53,Female,0,More than five years ago,II FC,Unstable angina,?,Stage 3,No,More than 10 years,No,?,?,170,95,4.1,140,0.3,0.37,10.1,29,9
+63,Female,0,?,II FC,Exertional angina,Yes,Stage 3,No,More than 10 years,No,?,?,200,100,5.3,146,0.68,0.6,7.2,27,2
+56,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,140,80,4.1,128,?,?,5.8,11,2
+60,Male,2,Four to five years ago,III FC,Exertional angina,?,No,No,No hypertension,No,?,?,110,90,4.6,146,1.2,0.1,7.4,13,1
+64,Male,0,Never,No angina,Unstable angina,?,Stage 2,No,Six to ten years,No,?,?,120,70,4,136,0.75,0.22,12.2,8,2
+52,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,?,?,5,140,0.68,0.15,7.5,4,2
+57,Male,0,Never,No angina,No angina,?,Stage 2,No,?,No,?,?,170,100,?,?,?,?,6.9,5,1
+58,Male,0,Never,No angina,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,120,80,4,143,0.15,0.22,5.3,5,7
+62,Female,0,More than five years ago,II FC,Exertional angina,?,Stage 3,No,More than 10 years,No,?,?,190,80,4.1,130,?,?,6.9,17,?
+62,Female,1,During the last year,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,140,80,4.9,142,0.23,0.22,?,?,8
+64,Male,0,Never,No angina,No angina,?,Stage 2,No,More than 10 years,No,?,?,180,100,3.6,136,?,?,15,7,2
+55,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,200,120,3.1,134,0.33,0.18,7,19,9
+78,Female,0,Never,No angina,Unstable angina,?,No,No,No hypertension,No,?,?,?,?,4.5,136,0.22,0.11,7.9,13,2
+64,Male,1,More than five years ago,II FC,Unstable angina,?,Stage 2,No,More than 10 years,Yes,?,?,120,80,3.4,127,0.15,0.07,11.7,20,9
+70,Male,1,During the last year,II FC,Unstable angina,?,No,No,No hypertension,No,160,80,150,80,4.5,136,0.75,0.04,5.8,35,7
+76,Female,1,More than five years ago,II FC,Unstable angina,?,Stage 2,No,More than 10 years,No,260,120,150,90,?,?,0.38,0.18,?,?,9
+74,Male,1,More than five years ago,II FC,Unstable angina,?,Stage 2,No,One year,No,?,?,120,80,3.9,125,0.15,0.07,6,19,9
+?,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,105,70,120,70,4.7,121,1.2,0.45,?,?,1
+59,Male,0,Never,No angina,Unstable angina,?,No,No,No hypertension,No,?,?,120,80,4.3,142,0.61,0.07,6.1,13,9
+57,Male,0,Never,No angina,Unstable angina,?,Stage 3,No,More than 10 years,Yes,120,80,120,80,?,143,0.15,0.45,12,7,7
+51,Male,1,Never,No angina,Unstable angina,?,No,No,No hypertension,No,110,70,110,70,4.9,140,0.45,0.3,12.8,7,2
+69,Male,1,Four to five years ago,I FC,Unstable angina,?,Stage 3,No,More than 10 years,No,?,?,140,100,4.2,136,0.3,0.4,16.1,16,6
+63,Female,0,During the last year,III FC,Unstable angina,?,Stage 2,No,Six to ten years,No,?,?,?,?,?,?,?,?,10.3,42,?
+61,Female,0,Never,No angina,Unstable angina,?,No,No,No hypertension,No,?,?,120,80,5.2,156,0.15,0.07,6.1,14,8
+63,Female,0,Never,No angina,No angina,?,Stage 2,No,?,No,?,?,160,100,4.1,136,0.4,0.3,4.1,10,8
+78,Female,0,One year ago,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,?,?,3.2,133,0.14,0.08,7.9,38,3
+60,Female,0,During the last year,II FC,Exertional angina,?,Stage 2,No,Five years,No,?,?,130,90,3.7,141,1.81,0.3,4.19,8,4
+56,Male,3,More than five years ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,140,90,3.1,133,0.23,0.2,7.5,?,1
+65,Female,1,One year ago,II FC,Unstable angina,?,No,No,No hypertension,No,?,?,?,?,3.7,142,0.3,0.22,6.8,13,9
+77,Female,0,Never,No angina,Unstable angina,?,Stage 2,No,Six to ten years,No,?,?,190,100,4.1,138,0.23,0.18,4.1,12,9
+64,Male,0,During the last year,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,140,90,?,?,0.45,0.22,7.2,2,2
+44,Male,0,During the last year,II FC,Unstable angina,?,No,No,No hypertension,No,?,?,?,?,?,?,0.18,0.3,4.7,10,9
+82,Male,1,Three years ago,II FC,Exertional angina,?,No,No,No hypertension,No,80,40,120,80,3.7,136,0.46,0.08,7.6,25,2
+61,Female,0,?,?,Unstable angina,?,Stage 2,No,One year,No,?,?,140,100,4.5,141,0.45,0.52,7.8,10,3
+51,Male,0,Never,No angina,No angina,?,Stage 2,No,Five years,No,?,?,?,?,3.4,136,0.3,0.18,15.3,2,2
+49,Female,0,Never,No angina,Unstable angina,?,No,No,No hypertension,No,?,?,120,70,3.9,130,0.23,0.26,5.7,7,3
+49,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,130,90,140,90,?,?,0.52,0.6,7.4,6,4
+76,Female,0,Two years ago,II FC,Exertional angina,?,Stage 2,No,?,No,?,?,160,100,3.3,133,0.46,0.3,12.4,16,6
+62,Male,0,Two years ago,I FC,Unstable angina,?,Stage 3,No,More than 10 years,No,?,?,?,?,4.2,130,0.9,0.63,8,10,?
+63,Male,1,During the last year,II FC,Exertional angina,?,Stage 3,No,Six to ten years,No,?,?,180,100,?,?,0.23,0.15,9.5,18,6
+69,Female,1,More than five years ago,II FC,Exertional angina,?,Stage 3,No,Six to ten years,No,120,80,160,100,?,?,0.3,0.07,5.8,39,6
+68,Male,0,Three years ago,II FC,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,130,80,3.1,133,0.15,0.23,7.7,?,3
+66,Female,?,?,?,?,?,No,Yes,?,?,70,30,60,20,?,?,0.3,0.15,12,3,2
+75,Male,3,?,?,Unstable angina,?,Stage 2,No,More than 10 years,No,200,110,140,80,?,?,?,?,7.2,14,2
+65,Female,0,More than five years ago,II FC,Exertional angina,?,Stage 3,No,?,No,?,?,120,80,?,?,0.75,0.37,9,?,4
+49,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,120,80,3,125,0.45,0.11,6.8,10,3
+70,Female,0,?,II FC,Exertional angina,?,Stage 2,No,Two years,No,?,?,130,90,4.8,138,0.23,0.11,4.8,14,7
+83,Male,1,Never,No angina,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,130,80,?,?,0.38,0.33,14.5,7,3
+65,Female,0,Never,No angina,No angina,?,Stage 2,No,Six to ten years,No,?,?,170,100,3.6,146,0.15,0.15,4.2,12,9
+75,Female,0,Three years ago,II FC,Exertional angina,?,No,No,No hypertension,No,150,100,140,90,4,144,0.15,0.15,9.1,35,2
+69,Male,2,Three years ago,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,130,80,5.3,130,0.52,0.15,3.9,11,1
+71,Female,0,During the last year,IV FC,Unstable angina,?,No,No,No hypertension,No,?,?,120,80,4.2,130,0.15,0.15,7.3,24,9
+38,Male,1,More than five years ago,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,120,80,3.2,133,0.45,0.26,12.5,22,6
+62,Male,3,One year ago,I FC,Unstable angina,?,No,No,No hypertension,No,?,?,120,80,4.9,146,0.45,0.22,5,15,8
+55,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,?,?,?,?,?,?,9.6,?,3
+82,Female,1,?,?,Unstable angina,?,Stage 3,No,More than 10 years,No,?,?,60,40,3.5,136,0.38,0.18,9.5,12,5
+50,Male,0,Never,No angina,No angina,?,Stage 2,No,More than 10 years,No,?,?,?,?,4.3,143,?,?,8.2,15,9
+66,Female,0,Never,No angina,Unstable angina,?,Stage 2,No,More than 10 years,No,140,80,170,105,3.3,132,0.45,0.15,9.9,8,1
+63,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,150,90,110,70,3.2,127,1.36,0.26,?,?,5
+53,Male,1,?,?,Unstable angina,?,No,No,No hypertension,No,?,?,110,70,5.6,136,?,?,10.6,27,?
+77,Female,2,Never,No angina,No angina,?,Stage 3,No,Six to ten years,No,?,?,200,100,?,?,0.38,0.11,6.9,30,3
+50,Male,0,Never,No angina,Unstable angina,?,Stage 2,No,Three years,No,?,?,140,100,4.6,133,0.82,0.41,10.1,50,7
+69,Male,3,More than five years ago,III FC,Unstable angina,?,Stage 2,No,More than 10 years,No,160,90,?,?,5.1,136,0.15,0.15,5.4,25,?
+52,Female,0,Never,No angina,Unstable angina,?,Stage 1,No,One year,No,?,?,110,70,4.2,138,0.38,0.22,4.5,5,9
+51,Male,0,Never,No angina,No angina,?,Stage 2,No,One year,No,?,?,?,?,4.9,139,?,?,12,5,1
+57,Male,1,More than five years ago,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,160,100,?,?,0.15,0.15,4.3,15,3
+62,Male,3,More than five years ago,III FC,Unstable angina,?,No,No,No hypertension,Yes,120,80,120,80,4.4,140,1.13,0.6,5.5,25,2
+70,Female,0,More than five years ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,50,0,?,?,?,?,?,?,2
+80,Female,0,Four to five years ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,?,?,4,142,0.41,0.07,5.7,12,2
+63,Female,0,?,?,Unstable angina,?,Stage 3,No,Six to ten years,No,180,90,240,110,4.5,136,0.23,0.07,7.5,44,5
+56,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,160,100,140,90,3.9,138,0.52,0.3,9.5,17,2
+70,Female,0,Two years ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,60,0,4.7,146,0.38,0.18,21.3,2,2
+56,Male,1,One year ago,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,130,80,3.8,136,0.9,0.3,5.4,4,?
+62,Female,0,?,?,?,?,Stage 2,No,More than 10 years,No,?,?,110,70,5.6,136,0.3,0.15,7.9,4,2
+76,Female,3,?,III FC,Exertional angina,?,Stage 3,No,More than 10 years,No,?,?,180,120,?,?,?,?,?,?,2
+76,Female,2,One year ago,IV FC,Unstable angina,?,Stage 2,No,Five years,No,?,?,?,?,?,?,?,?,10.5,12,3
+47,Male,2,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,?,?,4.1,128,0.45,0.07,6.2,20,3
+57,Male,1,More than five years ago,I FC,Exertional angina,?,No,No,No hypertension,No,?,?,130,80,4,130,0.15,0.11,11.2,5,2
+37,Male,2,Never,No angina,No angina,?,Stage 2,No,?,No,?,?,?,?,5.4,136,0.9,0.45,5.4,?,3
+35,Male,0,Never,No angina,Unstable angina,?,No,No,No hypertension,No,130,80,110,70,3.9,131,0.23,0.18,11.7,7,3
+51,Male,1,?,?,Unstable angina,?,No,No,No hypertension,No,?,?,?,?,4,137,0.75,0.37,11.6,4,2
+49,Male,0,Never,No angina,No angina,?,Stage 2,No,Two years,No,?,?,?,?,3.2,134,0.61,0.15,7.2,7,2
+57,Male,0,Never,No angina,No angina,Yes,No,No,No hypertension,No,160,110,150,90,4.5,128,0.07,0.11,6.3,12,2
+62,Female,0,During the last year,II FC,Exertional angina,?,Stage 2,No,Six to ten years,No,?,?,160,90,4.7,136,0.22,0.15,11.9,?,2
+82,Male,0,Never,No angina,No angina,?,Stage 2,No,No hypertension,No,200,100,120,80,4.7,144,?,?,8.4,3,9
+62,Male,0,Three years ago,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,110,70,4.1,136,1.64,0.75,17.7,2,8
+78,Female,0,More than five years ago,II FC,Exertional angina,?,Stage 3,No,More than 10 years,No,130,70,210,110,?,?,0.3,0.15,10.2,28,1
+52,Female,1,During the last year,II FC,Unstable angina,?,Stage 2,No,More than 10 years,No,150,85,150,90,3.8,138,0.3,0.15,4.4,19,2
+72,Female,0,Three years ago,II FC,Exertional angina,?,Stage 2,No,Five years,No,140,80,130,80,?,?,?,?,11,?,9
+77,Male,0,Never,No angina,No angina,?,Stage 2,No,?,No,130,80,110,70,4,130,?,?,5.4,9,8
+43,Male,3,More than five years ago,II FC,Unstable angina,No,No,No,No hypertension,Yes,?,?,?,?,?,?,0.45,0.18,?,?,9
+79,Male,1,During the last year,II FC,Exertional angina,?,Stage 2,No,?,No,?,?,140,80,5,117,0.15,0.22,11.2,8,2
+66,Male,0,More than five years ago,II FC,Unstable angina,?,Stage 2,No,More than 10 years,No,170,80,130,70,3.5,128,0.07,0.04,12.5,55,6
+57,Male,0,Never,No angina,Unstable angina,?,No,No,No hypertension,No,?,?,140,90,4.2,133,0.61,0.15,6.9,3,1
+71,Female,2,More than five years ago,III FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,140,90,?,?,0.15,0.26,7.2,13,9
+83,Female,0,?,II FC,Unstable angina,?,Stage 2,No,?,No,?,?,130,80,4,143,0.38,0.3,7.4,17,7
+67,Male,2,Two years ago,II FC,Unstable angina,?,Stage 2,No,?,No,?,?,160,90,?,?,?,?,?,?,?
+58,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,120,70,?,?,?,?,5.9,8,4
+83,Female,0,Never,No angina,No angina,?,Stage 3,No,?,No,?,?,60,40,3.9,143,1.36,0.75,17.8,21,?
+76,Female,0,Two years ago,II FC,Unstable angina,?,Stage 2,No,?,No,?,?,160,80,?,?,?,?,?,?,?
+58,Male,0,Never,No angina,No angina,?,Stage 3,No,Six to ten years,No,?,?,150,110,3.1,133,0.38,0.07,14.1,3,7
+50,Male,0,Three years ago,II FC,Exertional angina,?,Stage 2,No,Two years,No,?,?,120,80,4.1,136,0.45,0.18,8.9,5,2
+41,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,100,60,4.2,140,0.75,0.3,4.8,7,2
+74,Female,0,More than five years ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,200,100,4.2,143,0.38,0.11,7.3,?,8
+64,Female,0,Never,No angina,Unstable angina,?,Stage 2,No,One year,No,150,90,?,?,4.9,138,1.96,0.45,6.5,10,9
+56,Male,0,More than five years ago,II FC,Unstable angina,?,Stage 3,No,?,No,?,?,130,70,3.7,140,1.05,0.3,7.2,12,6
+65,Male,2,Four to five years ago,II FC,Unstable angina,?,Stage 2,No,Five years,No,160,90,140,90,5,129,0.15,0.07,10.2,9,2
+73,Male,1,Four to five years ago,II FC,Exertional angina,?,Stage 2,No,Six to ten years,No,?,?,190,110,4.3,140,0.98,0.37,8.6,5,6
+52,Male,1,Never,No angina,No angina,?,No,No,No hypertension,No,40,0,60,50,4.8,130,0.98,0.56,12.1,12,6
+41,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,120,90,140,90,3,?,?,?,5,15,1
+68,Female,0,More than five years ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,180,120,?,?,?,?,?,?,3
+65,Male,0,?,?,Unstable angina,?,Stage 2,No,Two years,No,?,?,?,?,?,?,0.52,0.22,?,?,9
+64,Female,1,?,?,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,100,70,3.9,136,0.75,0.33,14.6,24,9
+62,Male,2,During the last year,III FC,Exertional angina,?,No,No,No hypertension,No,130,80,140,90,3.8,140,0.07,0.07,8,5,6
+71,Female,0,Never,No angina,No angina,?,Stage 2,No,?,No,?,?,130,80,4,146,?,?,8.3,5,1
+57,Male,0,Never,No angina,Unstable angina,?,No,No,No hypertension,No,120,70,180,110,2.9,130,0.15,0.07,6.2,3,1
+63,Female,0,More than five years ago,II FC,Unstable angina,?,Stage 2,No,Six to ten years,No,?,?,160,100,3.1,134,0.3,0.11,6.1,10,1
+62,Male,0,During the last year,II FC,Unstable angina,?,Stage 2,No,One year,No,?,?,?,?,?,?,0.45,0.15,6.7,3,2
+61,Male,0,Never,No angina,Unstable angina,?,No,No,No hypertension,No,130,80,130,80,3.5,132,0.61,0.3,5.9,23,8
+57,Male,0,During the last year,II FC,Exertional angina,?,Stage 2,No,Five years,No,190,100,200,100,6,136,?,?,6,16,9
+74,Female,2,Four to five years ago,II FC,Exertional angina,?,Stage 3,No,More than 10 years,No,?,?,150,90,4.2,136,?,?,5.2,20,2
+68,Male,2,More than five years ago,II FC,Exertional angina,?,No,No,No hypertension,Yes,?,?,100,60,3.1,135,0.23,0.3,9.2,8,?
+65,Male,0,Four to five years ago,II FC,Exertional angina,?,Stage 2,No,Five years,No,180,90,140,80,4.2,140,1.2,0.37,8,5,7
+42,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,120,80,?,?,?,?,8,3,2
+32,Female,0,During the last year,II FC,Exertional angina,?,No,No,No hypertension,No,120,80,110,60,3.7,139,1.51,0.75,7.7,8,1
+43,Male,2,One year ago,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,100,70,4,140,0.68,0.37,9.9,7,?
+63,Male,0,More than five years ago,II FC,Exertional angina,?,Stage 2,No,?,No,120,70,160,85,4.1,134,2.26,0.66,8.3,3,7
+64,Male,1,Three years ago,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,130,80,?,?,0.38,0.3,7.4,6,6
+70,Female,0,One year ago,II FC,Unstable angina,?,Stage 3,No,More than 10 years,No,?,?,130,70,?,?,0.45,0.52,10.9,11,3
+79,Female,2,During the last year,III FC,Exertional angina,?,Stage 3,No,More than 10 years,No,?,?,110,70,3.5,130,0.3,0.75,7.9,11,5
+82,Female,1,Three years ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,160,80,2.5,130,0.07,0.22,6.4,30,9
+80,Female,1,?,?,?,?,No,No,No hypertension,No,70,30,100,60,4.2,136,0.23,0.26,?,?,4
+63,Female,0,Four to five years ago,II FC,Unstable angina,Yes,Stage 2,No,One year,No,160,90,140,100,4.6,142,0.15,0.11,6.4,8,3
+70,Female,0,Four to five years ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,150,90,3.4,132,0.3,0.75,13.4,20,3
+67,Male,1,Four to five years ago,II FC,Exertional angina,?,Stage 3,No,Six to ten years,No,190,100,120,80,4.6,138,0.45,0.15,14.7,2,2
+57,Male,1,Two years ago,II FC,Unstable angina,?,Stage 2,No,?,No,160,90,140,80,4.6,150,0.15,0.18,7,3,7
+67,Female,2,Never,No angina,No angina,?,No,No,No hypertension,No,140,90,130,80,3.2,140,0.23,0.22,5.8,4,7
+52,Male,0,During the last year,II FC,Exertional angina,?,Stage 2,No,One year,No,?,?,140,100,4.5,129,0.75,0.33,6.8,12,2
+63,Female,0,?,II FC,Exertional angina,?,Stage 2,No,Five years,No,?,?,150,90,4.8,142,?,?,?,?,1
+51,Male,0,Never,No angina,Unstable angina,?,Stage 2,No,?,No,?,?,?,?,3.8,135,0.38,0.33,15.9,5,2
+66,Male,1,One year ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,?,?,4.2,132,0.38,0.15,5.4,21,2
+60,Male,0,Never,No angina,Unstable angina,?,Stage 3,No,More than 10 years,No,190,100,160,90,3.5,132,0.45,0.22,8.3,?,9
+43,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,130,70,3.8,138,0.52,0.07,12.7,4,2
+41,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,120,80,?,?,0.52,0.22,13,2,?
+70,Female,0,Never,No angina,No angina,?,Stage 2,No,More than 10 years,No,160,90,200,90,5.3,140,0.45,0.15,9.7,14,7
+67,Male,1,More than five years ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,160,100,4,140,0.38,0.18,9,10,3
+54,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,130,80,?,?,3,135,0.75,0.15,13,4,4
+51,Male,0,Never,No angina,No angina,?,Stage 1,No,Three years,No,160,100,130,80,4.6,132,0.23,0.15,13.1,8,2
+65,Female,2,?,?,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,180,90,?,?,0.07,0.04,13,23,7
+37,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,110,70,?,?,3.8,136,0.82,0.3,12.2,3,5
+62,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,120,80,130,80,4.4,146,0.15,0.15,12.1,3,9
+77,Female,0,Three years ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,110,70,3.7,130,1.05,0.52,12.8,6,2
+70,Male,0,During the last year,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,180,90,?,?,0.3,0.15,22.4,3,3
+66,Female,1,During the last year,II FC,Exertional angina,?,Stage 2,No,Six to ten years,No,?,?,140,80,3.7,136,0.45,0.22,6.4,4,4
+59,Female,2,Never,No angina,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,?,?,4.2,140,0.61,0.6,6.7,10,2
+76,Female,1,Two years ago,II FC,Unstable angina,?,Stage 2,No,Two years,No,?,?,160,90,4.7,133,1.05,0.18,6,16,5
+76,Female,0,Never,No angina,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,?,?,4.1,140,0.23,0.33,9.6,22,8
+75,Male,?,?,?,?,?,?,?,?,?,?,?,90,60,6,143,0.3,0.18,7.4,5,3
+76,Male,0,Never,No angina,Unstable angina,?,Stage 3,No,One year,No,?,?,140,90,3.4,134,0.14,0.14,4.3,22,?
+43,Male,1,During the last year,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,130,80,4,131,0.61,0.15,9,7,2
+52,Male,0,Two years ago,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,140,70,3.8,142,1.13,0.6,?,?,1
+65,Male,0,Never,No angina,No angina,?,Stage 2,No,Six to ten years,No,140,90,150,90,3.3,134,0.45,0.22,7.3,10,2
+66,Male,0,Four to five years ago,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,?,?,3.8,132,0.75,0.33,7.3,17,4
+52,Male,0,Never,No angina,Unstable angina,?,No,No,No hypertension,No,?,?,130,80,4.7,124,?,?,?,?,9
+73,Female,0,Never,No angina,No angina,?,No,No,No hypertension,No,80,60,70,40,3.1,136,2.1,0.36,17.3,21,2
+58,Male,1,Never,No angina,Unstable angina,?,Stage 2,No,One year,?,100,70,100,60,4.1,153,0.45,0.44,15.3,2,2
+64,Female,1,Never,No angina,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,140,80,4.3,136,0.23,0.45,12.8,7,1
+63,Female,1,More than five years ago,III FC,Unstable angina,?,Stage 2,No,?,?,50,20,70,40,?,?,?,?,?,?,?
+59,Female,0,Never,No angina,No angina,?,Stage 3,No,More than 10 years,No,145,85,130,80,4.8,140,0.15,0.07,10.5,23,5
+68,Female,1,One year ago,II FC,Exertional angina,?,Stage 2,No,One year,No,?,?,150,90,3.3,130,0.3,0.15,8.6,11,9
+?,Male,2,More than five years ago,II FC,Exertional angina,?,Stage 2,No,?,No,?,?,150,90,4.1,138,?,?,5.7,6,6
+79,Female,0,More than five years ago,II FC,Unstable angina,?,Stage 2,No,More than 10 years,No,150,90,120,80,?,?,0.82,0.18,?,?,6
+61,Female,0,?,?,Unstable angina,?,Stage 3,No,More than 10 years,No,170,100,160,100,5,139,0.3,0.68,7,12,1
+67,Male,3,Two years ago,II FC,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,140,80,4.6,140,?,?,5,16,1
+65,Female,0,Never,No angina,Unstable angina,?,Stage 2,No,Six to ten years,No,?,?,130,80,3,136,0.38,0.3,9.5,34,3
+41,Male,0,Never,No angina,Unstable angina,?,Stage 2,No,One year,No,?,?,?,?,4.3,133,0.3,0.3,5.5,15,6
+50,Female,0,More than five years ago,II FC,Unstable angina,Yes,Stage 2,No,More than 10 years,No,?,?,160,80,4,123,1.36,0.75,16.4,15,?
+63,Female,0,Never,No angina,No angina,?,Stage 2,No,Three years,No,110,70,130,80,3.8,142,0.15,0.11,13.4,4,2
+43,Male,0,Never,No angina,Unstable angina,?,Stage 2,No,Five years,No,?,?,140,80,4,136,0.52,0.37,5.1,5,9
+64,Male,1,Never,No angina,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,130,80,4.3,130,0.45,0.22,?,4,?
+68,Female,0,Four to five years ago,II FC,Unstable angina,?,Stage 2,No,Five years,No,?,?,130,80,3.8,130,0.15,0.75,7.7,20,7
+34,Male,0,Three years ago,II FC,Exertional angina,?,Stage 2,No,?,No,120,80,140,90,4.6,138,0.45,0.15,7.3,23,4
+35,Male,0,Never,No angina,No angina,?,Stage 2,No,One year,No,?,?,140,100,3.9,140,0.75,0.37,12.5,4,1
+58,Female,0,Three years ago,II FC,Exertional angina,?,No,Yes,More than 10 years,No,170,100,160,100,4,136,0.75,0.15,7.5,10,3
+61,Female,2,One year ago,II FC,Exertional angina,?,Stage 2,No,Five years,No,?,?,140,90,5.2,139,0.15,0.07,6.9,59,3
+66,Female,0,Four to five years ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,140,90,3.5,143,?,?,16.3,?,6
+69,Female,1,Three years ago,II FC,Unstable angina,?,Stage 3,No,Four years,No,?,?,160,100,?,?,0.45,0.15,6.4,20,3
+78,Male,2,More than five years ago,II FC,Exertional angina,?,Stage 2,No,?,No,?,?,160,80,3,130,0.45,0.15,7.6,30,1
+71,Male,1,More than five years ago,II FC,Exertional angina,?,No,No,No hypertension,No,110,70,110,70,4,140,0.52,0.22,8.5,17,2
+64,Male,0,More than five years ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,140,80,8.2,148,0.98,0.86,7.9,6,6
+63,Male,1,Never,No angina,Unstable angina,?,Stage 2,No,Five years,No,?,?,?,?,4.6,142,0.75,0.45,6.7,6,7
+75,Female,2,Two years ago,I FC,Unstable angina,?,Stage 3,No,Six to ten years,No,140,80,160,90,5,146,0.38,0.11,7.4,3,1
+66,Male,0,Never,No angina,No angina,?,Stage 2,No,More than 10 years,No,?,?,150,90,3.3,130,0.61,0.3,?,?,2
+69,Male,0,Never,No angina,No angina,No,No,No,No hypertension,No,?,?,140,90,3.5,139,0.3,0.3,5.4,9,9
+81,Female,0,Never,No angina,No angina,?,Stage 2,No,?,No,110,80,110,70,3.2,123,0.22,0.15,5.3,11,?
+32,Male,1,One year ago,II FC,Unstable angina,?,Stage 2,No,?,No,?,?,120,80,3.8,134,0.3,0.3,15.4,3,2
+65,Female,0,More than five years ago,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,120,70,3.1,133,0.15,0.07,8.6,10,3
+66,Male,0,Never,No angina,Unstable angina,?,No,No,No hypertension,No,?,?,120,80,4,140,0.15,0.15,8.3,140,9
+57,Female,1,During the last year,II FC,Unstable angina,?,Stage 2,No,Six to ten years,No,?,?,120,80,3.5,130,0.45,0.15,5.1,10,3
+37,Male,0,Never,No angina,No angina,?,Stage 2,No,?,No,?,?,140,90,6,146,1.36,0.9,9,5,7
+68,Male,1,Never,No angina,Unstable angina,?,Stage 2,No,More than 10 years,No,130,70,120,70,5.1,153,?,?,12.2,10,3
+62,Male,0,Four to five years ago,II FC,Unstable angina,?,Stage 3,No,More than 10 years,No,130,80,110,70,4.4,?,0.15,0.07,10.6,4,1
+55,Male,0,Never,No angina,No angina,?,Stage 2,No,More than 10 years,No,?,?,180,100,3.8,133,0.6,0.4,10.7,5,4
+76,Female,1,During the last year,III FC,Exertional angina,?,Stage 2,No,Two years,No,?,?,160,100,?,?,?,?,7.9,6,6
+42,Male,0,Never,No angina,Unstable angina,?,No,No,No hypertension,No,?,?,140,100,?,?,?,?,6.4,4,?
+55,Female,3,More than five years ago,II FC,Unstable angina,?,Stage 2,No,Four years,No,?,?,95,60,?,?,?,?,?,?,?
+59,Male,0,More than five years ago,II FC,Unstable angina,?,No,No,No hypertension,No,160,85,140,90,?,?,0.38,0.37,9.7,21,7
+68,Female,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,?,?,4.6,136,1.05,0.6,11.3,20,6
+52,Female,1,Four to five years ago,II FC,No angina,?,Stage 3,No,More than 10 years,No,?,?,110,60,?,?,?,?,7.4,12,2
+57,Male,3,More than five years ago,II FC,Exertional angina,?,Stage 2,No,Three years,No,110,70,90,70,4.4,144,0.52,0.45,14.5,7,2
+66,Female,0,Two years ago,III FC,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,130,80,3.7,138,0.68,0.22,12.8,2,3
+55,Female,0,Never,No angina,Unstable angina,?,No,No,No hypertension,No,?,?,120,80,3.5,143,0.75,0.15,7.1,5,2
+68,Male,3,More than five years ago,II FC,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,120,80,?,?,0.15,0.15,7.5,11,9
+45,Female,1,During the last year,II FC,Unstable angina,?,Stage 3,No,More than 10 years,No,?,?,130,80,3.7,136,0.15,0.07,12.6,32,3
+53,Male,1,Never,No angina,No angina,?,No,No,No hypertension,No,90,60,110,80,4.5,146,0.45,0.15,7.2,53,2
+57,Male,0,One year ago,II FC,Exertional angina,?,Stage 2,No,?,?,?,?,140,95,?,?,?,?,11,24,9
+?,Male,1,Two years ago,II FC,Exertional angina,?,Stage 2,No,Five years,Yes,110,70,150,90,?,?,0.3,0.11,5.5,3,6
+64,Male,0,?,?,Unstable angina,?,No,No,No hypertension,No,?,?,110,80,4.1,141,?,?,7,4,1
+78,Male,0,Never,No angina,No angina,?,Stage 2,No,One year,Yes,115,65,100,60,?,?,0.38,0.3,9.3,4,9
+64,Male,0,Never,No angina,Unstable angina,?,Stage 2,No,Five years,No,?,?,150,90,5.4,146,?,?,7.8,6,8
+46,Male,0,Never,No angina,No angina,?,Stage 3,No,?,No,150,80,180,120,4.9,138,0.15,0.15,7,9,2
+52,Male,1,Four to five years ago,II FC,Exertional angina,?,No,No,No hypertension,No,90,60,90,60,3.9,132,0.9,0.52,13.6,7,6
+70,Female,0,One year ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,140,80,?,?,0.52,0.48,?,?,1
+57,Male,0,Two years ago,II FC,Exertional angina,?,No,No,No hypertension,No,110,80,90,60,?,?,?,?,?,?,1
+64,Female,0,Never,No angina,No angina,?,Stage 2,No,More than 10 years,No,?,?,120,70,4.8,143,0.23,0.15,5.2,10,2
+57,Male,0,More than five years ago,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,?,?,3.1,134,1.96,0.67,20.1,6,6
+50,Male,0,Never,No angina,Unstable angina,?,No,No,No hypertension,No,?,?,130,80,3.4,140,0.15,0.52,9,7,3
+54,Male,0,Never,No angina,No angina,?,Stage 2,No,?,No,?,?,160,100,3.6,135,0.38,0.22,9,?,8
+78,Male,0,Three years ago,II FC,Unstable angina,?,Stage 2,No,?,No,?,?,120,90,3.8,139,0.23,0.15,6.2,7,2
+67,Female,0,Never,No angina,Unstable angina,?,Stage 3,No,More than 10 years,No,?,?,140,90,?,?,0.61,0.6,8.4,9,4
+63,Male,3,More than five years ago,II FC,Exertional angina,?,No,No,No hypertension,No,80,60,100,70,3.9,133,0.3,0.15,14.7,13,2
+53,Male,1,Four to five years ago,III FC,Unstable angina,?,No,No,No hypertension,No,80,60,60,40,?,?,0.3,0.45,9.3,?,8
+63,Male,0,More than five years ago,II FC,Exertional angina,?,No,No,No hypertension,No,125,80,160,90,?,?,0.45,0.52,11.3,5,2
+73,Female,0,?,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,150,90,100,60,4,140,0.2,0.2,8,20,2
+54,Male,0,Never,No angina,No angina,?,Stage 2,No,More than 10 years,No,?,?,?,?,4.9,130,0.15,0.11,17.2,5,3
+56,Male,1,During the last year,II FC,Exertional angina,?,No,No,No hypertension,No,130,90,130,80,?,?,0.23,0.15,4.2,44,9
+62,Male,1,During the last year,II FC,Exertional angina,?,Stage 2,No,?,No,?,?,0,0,3.5,130,0.3,0.15,9.3,7,2
+52,Female,0,Four to five years ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,130,80,3,133,0.15,0.22,6.5,16,2
+65,Male,0,During the last year,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,120,90,4.5,136,1.05,0.96,4.8,8,7
+49,Male,1,Three years ago,II FC,Exertional angina,?,No,No,No hypertension,No,140,90,130,80,5.4,137,1.51,0.52,10.5,4,2
+44,Male,0,Never,No angina,Unstable angina,?,Stage 2,No,Five years,No,?,?,140,90,4.3,136,0.23,0.22,?,?,?
+65,Male,1,Never,No angina,No angina,?,No,No,No hypertension,No,170,100,100,70,3.7,137,?,?,6.2,12,5
+45,Male,0,Three years ago,II FC,?,?,Stage 2,No,More than 10 years,No,100,60,130,80,4.1,136,?,?,8,5,2
+44,Male,0,One year ago,II FC,Exertional angina,?,Stage 1,No,No hypertension,No,?,?,?,?,?,?,?,?,6.6,9,7
+60,Male,1,Three years ago,II FC,Unstable angina,?,No,No,No hypertension,No,?,?,110,70,3.9,136,0.45,0.18,12,8,2
+80,Female,0,Never,No angina,Unstable angina,?,Stage 2,No,Six to ten years,No,90,60,100,60,3.9,140,0.38,0.22,10.2,21,1
+40,Male,?,?,?,?,?,No,No,No hypertension,No,80,50,80,60,2.9,133,0.45,0.98,7.4,16,?
+70,Female,0,Four to five years ago,II FC,Unstable angina,?,Stage 2,No,Five years,No,140,80,120,80,4.1,138,0.15,0.07,7.3,16,3
+92,Male,0,More than five years ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,160,90,140,80,4.5,153,1.05,0.67,8.1,6,9
+70,Female,0,More than five years ago,II FC,Unstable angina,?,Stage 3,No,More than 10 years,No,?,?,?,?,3.5,136,?,?,?,?,9
+55,Male,1,One year ago,II FC,Exertional angina,?,No,No,No hypertension,No,120,70,130,80,3.6,132,0.3,0.15,8.9,10,1
+75,Female,2,During the last year,II FC,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,160,90,4.5,136,0.23,0.18,9.7,3,9
+48,Male,1,One year ago,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,?,?,4.1,128,0.3,0.15,?,?,3
+77,Male,0,Never,No angina,No angina,?,Stage 2,No,?,No,?,?,160,80,4.2,130,0.38,0.15,7,17,9
+66,Female,0,Never,No angina,Unstable angina,?,Stage 3,No,More than 10 years,No,160,90,170,110,3.9,136,0.46,0.44,7.4,22,6
+38,Male,0,Never,No angina,No angina,No,No,No,No hypertension,No,130,80,130,80,4.5,140,0.52,0.26,5.9,7,9
+72,Female,1,Four to five years ago,II FC,Unstable angina,?,Stage 2,No,?,No,220,100,170,100,3.6,133,0.3,0.11,4.5,10,9
+59,Male,0,During the last year,I FC,Unstable angina,No,Stage 2,No,Two years,No,120,70,140,90,3.8,139,?,?,8.9,4,?
+87,Female,0,More than five years ago,II FC,Unstable angina,?,Stage 3,No,?,No,?,?,160,90,4.2,136,0.45,0.18,5.2,33,9
+67,Female,0,Never,No angina,No angina,?,Stage 2,No,?,No,90,60,140,100,4.7,159,1.05,0.37,12.7,3,2
+64,Female,1,Four to five years ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,170,120,130,90,?,?,0.61,0.22,14.3,9,2
+61,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,120,70,110,70,4.3,136,0.3,0.18,7.9,6,9
+40,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,120,90,3.8,130,0.61,0.45,8.3,5,2
+65,Male,3,Four to five years ago,II FC,Unstable angina,?,Stage 3,No,?,No,140,80,180,100,4.5,140,0.3,0.3,8.8,6,2
+53,Male,0,Never,No angina,No angina,?,Stage 3,No,Three years,No,140,90,130,90,3.9,134,0.45,0.15,8,?,7
+37,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,120,80,3.4,130,0.23,0.15,12.4,5,9
+53,Male,0,Never,No angina,Unstable angina,?,No,No,No hypertension,No,?,?,140,90,4.8,134,0.75,0.45,10.4,3,2
+64,Female,0,Never,No angina,No angina,?,Stage 2,No,Three years,No,?,?,?,?,?,?,0.52,0.15,7.3,8,9
+71,Female,2,Four to five years ago,II FC,Exertional angina,?,Stage 2,No,Six to ten years,No,?,?,160,80,4,140,0.45,0.22,10.9,28,4
+63,Female,0,Never,No angina,No angina,?,Stage 2,No,?,No,120,70,160,80,4.8,?,0.38,0.3,10.9,6,2
+83,Male,0,One year ago,II FC,Exertional angina,?,Stage 2,No,?,No,?,?,140,80,4.7,140,0.15,0.11,6.8,22,8
+56,Male,0,More than five years ago,II FC,Exertional angina,No,No,No,No hypertension,No,?,?,115,70,4.6,126,0.15,0.07,8.5,45,2
+63,Male,2,Four to five years ago,II FC,Unstable angina,?,Stage 2,No,One year,No,180,100,160,80,4.9,146,0.46,0.18,5,9,2
+48,Male,0,More than five years ago,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,100,60,4,146,0.61,0.33,5.6,7,1
+63,Male,2,?,?,?,?,Stage 2,No,?,No,?,?,0,0,?,?,?,?,?,?,1
+58,Male,3,More than five years ago,II FC,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,130,90,4.4,146,0.61,0.41,10.4,18,2
+65,Male,0,Never,No angina,No angina,?,Stage 3,No,?,No,230,120,180,100,4,140,0.82,0.15,11.7,4,9
+84,Female,0,?,?,?,?,Stage 2,No,More than 10 years,No,?,?,110,80,4.4,144,1.2,0.15,7,?,8
+65,Male,0,?,II FC,Exertional angina,?,No,No,No hypertension,No,100,60,110,60,3.5,123,0.75,0.12,9,9,3
+63,Male,0,More than five years ago,II FC,Unstable angina,?,No,No,No hypertension,No,?,?,100,60,5.7,136,0.75,0.37,8.9,3,6
+52,Male,0,Never,No angina,Unstable angina,?,Stage 2,No,Two years,No,150,100,180,100,4,132,0.3,0.11,10.8,?,3
+69,Male,0,Never,No angina,No angina,?,Stage 3,No,More than 10 years,No,160,100,180,130,3.7,131,0.38,0.18,6.8,7,?
+65,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,100,60,4.4,132,?,?,8.5,9,9
+44,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,130,80,120,80,4.2,140,0.61,0.22,5,10,6
+62,Female,2,More than five years ago,II FC,Unstable angina,?,Stage 2,No,Six to ten years,No,160,90,140,60,4.4,140,0.45,0.26,?,?,2
+79,Female,1,One year ago,II FC,Exertional angina,?,Stage 3,No,More than 10 years,No,?,?,150,90,4.5,133,?,?,13.9,?,2
+65,Male,1,More than five years ago,II FC,Unstable angina,?,No,No,No hypertension,No,?,?,130,70,5.1,133,0.3,0.11,10,6,5
+65,Female,0,More than five years ago,II FC,Unstable angina,?,Stage 3,No,More than 10 years,No,190,100,190,100,3.1,140,0.38,0.26,5.9,15,9
+51,Male,0,Never,No angina,No angina,?,No,Yes,Six to ten years,No,?,?,190,110,4.1,138,0.52,0.26,7.5,25,1
+55,Female,0,?,?,Unstable angina,?,No,No,No hypertension,No,?,?,110,70,?,?,?,?,5.2,16,6
+52,Male,0,Never,No angina,Unstable angina,?,Stage 2,No,No hypertension,No,140,90,120,80,5,130,0.45,0.22,7.5,?,2
+68,Female,0,Never,No angina,No angina,?,?,?,?,No,?,?,120,80,4.5,130,0.15,0.15,20.2,22,2
+52,Male,0,Never,No angina,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,120,70,5.5,128,1.05,0.52,12,30,7
+37,Male,0,More than five years ago,II FC,Exertional angina,?,No,No,No hypertension,No,180,80,150,90,3.5,137,?,?,9.4,5,2
+50,Male,0,One year ago,II FC,Exertional angina,?,No,Yes,Three years,No,?,?,160,100,4.7,136,1.05,0.52,6.6,20,9
+41,Male,0,One year ago,II FC,Exertional angina,Yes,No,No,No hypertension,No,110,80,110,70,5.5,144,0.45,0.15,9.8,3,2
+62,Male,0,More than five years ago,II FC,Exertional angina,?,No,No,No hypertension,No,80,60,100,60,?,?,?,?,?,?,1
+49,Male,0,Three years ago,II FC,Exertional angina,?,Stage 2,No,Three years,No,?,?,130,90,3.6,136,0.52,0.3,8.1,2,9
+49,Male,1,?,II FC,Exertional angina,No,Stage 2,No,Two years,No,?,?,?,?,4.8,137,0.3,0.15,10.1,12,9
+66,Female,0,Two years ago,II FC,Unstable angina,?,Stage 2,No,?,No,?,?,130,90,?,?,0.68,0.45,5.5,12,8
+54,Female,0,Never,No angina,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,?,?,5.4,132,0.15,0.11,6.4,2,2
+66,Male,0,During the last year,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,110,70,4.7,140,0.23,0.15,5.6,30,3
+62,Male,0,Two years ago,II FC,Unstable angina,?,No,No,No hypertension,No,?,?,120,80,4.9,146,0.45,0.22,5,15,9
+66,Male,0,Three years ago,II FC,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,120,70,4.4,133,0.3,0.37,9.3,9,5
+62,Male,0,Never,No angina,No angina,?,Stage 3,No,More than 10 years,No,?,?,140,100,3.2,117,0.38,0.18,10.1,19,6
+65,Male,0,Three years ago,II FC,Unstable angina,?,Stage 2,No,?,No,?,?,170,100,6,133,0.15,0.07,5.8,12,9
+55,Male,1,Never,No angina,No angina,No,No,No,No hypertension,No,?,?,120,90,3.5,132,0.38,0.18,7.8,3,2
+47,Male,0,Never,No angina,No angina,?,Stage 2,No,Four years,No,?,?,180,100,4.7,130,0.3,0.3,7.6,5,4
+55,Male,0,One year ago,II FC,Unstable angina,?,No,No,No hypertension,No,?,?,?,?,4.3,140,0.52,0.41,9.4,3,7
+59,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,130,80,?,?,?,?,10,3,2
+61,Female,1,Four to five years ago,II FC,Unstable angina,?,?,?,?,No,90,60,80,50,?,?,?,?,?,?,1
+63,Female,2,Two years ago,II FC,Exertional angina,?,Stage 2,No,Two years,No,?,?,?,?,4.4,140,0.15,0.15,?,?,9
+75,Female,2,More than five years ago,II FC,Exertional angina,?,Stage 3,No,More than 10 years,No,140,80,110,70,?,?,0.07,0.18,4.6,20,1
+78,Female,1,More than five years ago,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,140,80,5.5,143,0.3,0.07,10.1,17,1
+81,Female,0,More than five years ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,150,90,?,?,0.3,0.11,5.1,7,1
+44,Male,0,Never,No angina,No angina,?,No,No,No hypertension,No,130,90,160,70,3.2,122,1.2,0.37,9.9,7,3
+67,Female,0,Never,No angina,No angina,?,No,No,No hypertension,No,?,?,130,80,4.2,134,0.23,0.23,9.2,?,5
+68,Male,2,More than five years ago,II FC,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,160,90,3.9,146,0.3,0.3,8.2,5,2
+81,Female,2,Never,No angina,No angina,?,Stage 2,No,More than 10 years,No,210,100,170,90,4.2,126,1.2,0.3,?,?,3
+77,Female,3,Two years ago,II FC,Unstable angina,?,Stage 2,No,Six to ten years,No,?,?,160,100,4.5,138,?,?,6.8,32,9
+80,Male,0,More than five years ago,II FC,Unstable angina,?,Stage 3,No,More than 10 years,No,?,?,200,80,4.5,136,0.75,0.22,5.9,12,6
+56,Male,0,Two years ago,II FC,Unstable angina,?,No,No,No hypertension,No,130,80,110,70,?,?,?,?,6.7,3,3
+63,Female,0,Never,No angina,Unstable angina,?,Stage 2,No,More than 10 years,No,?,?,130,80,3.8,137,?,?,6.8,7,3
+76,Female,0,Two years ago,II FC,Unstable angina,?,No,No,No hypertension,No,?,?,110,70,3.8,123,0.45,0.18,5.9,50,3
+70,Female,0,More than five years ago,II FC,Exertional angina,?,Stage 2,No,More than 10 years,No,?,?,170,80,4.2,143,0.38,0.15,8,11,5
+86,Male,1,?,?,?,?,No,No,No hypertension,No,?,?,110,60,?,?,?,?,7.2,40,1
+55,Male,1,One year ago,II FC,Exertional angina,?,No,No,No hypertension,No,?,?,?,?,?,?,0.3,0.15,9,10,?
